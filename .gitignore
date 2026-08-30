@@ -1,0 +1,5 @@
+*.o
+cloud_simulator
+*.exe
+*.dll
+*.dSYM/
