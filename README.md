@@ -4,7 +4,7 @@ GTK3 desktop application for an operating-systems lab. It demonstrates CPU sched
 
 Jobs are submitted through one form. A submission declares its CPU data, Banker maximum/requested resources, memory requirement, and allocation strategy. The application only queues the CPU process after both resource and memory allocation succeed; completing a job releases both allocations. The Dashboard tab summarizes grants, denials, scheduling averages, memory utilization, and fragmentation.
 
-## Build
+### Build
 
 Install GTK3 development headers and `pkg-config`, then run:
 
